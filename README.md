@@ -35,14 +35,6 @@ Também possuo conhecimentos em **desenvolvimento Frontend com Angular**, aplica
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviddev096&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev096&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📚 Formação
 
 🎓 **Engenharia de Software**  
