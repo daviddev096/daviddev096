@@ -2,14 +2,12 @@
 
 🎓 Estudante de **Engenharia de Software**  
 💻 **Backend Java Developer em formação**  
-📍 São Luís – MA, Brasil
 
 ---
 
 ## 🚀 Sobre mim
 
 Sou estudante de Engenharia de Software com foco em **desenvolvimento Backend Java**. Possuo base sólida em **Programação Orientada a Objetos**, construção de **APIs RESTful com Spring Boot** e integração com **bancos de dados relacionais**.
-
 Também possuo conhecimentos em **desenvolvimento Frontend com Angular**, aplicando a integração entre APIs REST e interfaces modernas, além de conceitos de **Docker** e **CI/CD**.
 
 ---
