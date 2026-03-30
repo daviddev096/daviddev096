@@ -17,7 +17,6 @@ Também possuo conhecimentos em **desenvolvimento Frontend com Angular**, aplica
 ### Linguagens e Banco de Dados
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Backend e Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -30,6 +29,7 @@ Também possuo conhecimentos em **desenvolvimento Frontend com Angular**, aplica
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -41,7 +41,7 @@ Universidade Estácio de Sá – EAD
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - LinkedIn: https://www.linkedin.com/in/davidalvesdev/
 - GitHub: https://github.com/daviddev096
