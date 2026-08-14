@@ -12,7 +12,7 @@
 
 ### 👉 Sobre mim:
 
-• Sou estudante de Engenharia de Software com o objetivo de me tornar um Engenheiro de Software.  
+• Sou estudante de Engenharia de Software.  
 • Estou em transição de carreira para a área de tecnologia.  
 • Comecei a estudar **Java por conta própria um ano antes de entrar na faculdade**, construindo uma base sólida em programação.  
 • Programador Backend Java (minha stack principal), focado em Spring Boot, APIs RESTful, SQL e Postman.  
