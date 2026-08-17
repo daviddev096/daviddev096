@@ -1,7 +1,7 @@
 # David Alves
 
 🎓 **Estudante de Engenharia de Software**  
-💻 **Engenheiro de Software Java** | 📱 **Desenvolvimento Mobile Android**
+💻 **Engenheiro de Software Java** 
 
 ---
 
