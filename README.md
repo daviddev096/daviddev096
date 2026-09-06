@@ -10,8 +10,6 @@
 
 ---
 
-### 👉 Sobre mim:
-
 ## 👉 Sobre mim
 
 - 🎓 Sou estudante de Engenharia de Software.
