@@ -12,13 +12,23 @@
 
 ### 👉 Sobre mim:
 
-• Sou estudante de Engenharia de Software.  
-• Estou em transição de carreira para a área de tecnologia.  
-• Comecei a estudar **Java por conta própria um ano antes de entrar na faculdade**, construindo uma base sólida em programação.  
-• Programador Backend Java (minha stack principal), focado em Spring Boot, APIs RESTful, SQL e Postman.  
-• Estudo **desenvolvimento mobile Android nas horas vagas** por curiosidade e busca constante por conhecimento.  
-• Possuo conhecimentos em **React** no Frontend, além de conceitos de Docker, Git e CI/CD.
+## 👉 Sobre mim
 
+- 🎓 Sou estudante de Engenharia de Software.
+
+- 🚀 Estou em transição de carreira para a área de tecnologia.
+
+- ☕ Comecei a estudar **Java por conta própria antes de entrar na faculdade**, construindo uma base sólida em programação.
+
+- 💻 Tenho o **Java como minha principal stack**, com foco em Backend, Spring Boot, APIs RESTful e bancos de dados SQL.
+
+- ⚛️ Também estudo e desenvolvo aplicações utilizando **React**, complementando meus conhecimentos em desenvolvimento Full Stack.
+
+- 🌐 Nas horas vagas, estudo **Desenvolvimento Web** com **HTML5, CSS3, JavaScript e PHP**, desenvolvendo projetos acadêmicos e pessoais.
+
+- 🤖 Sou entusiasta de **Inteligência Artificial, Machine Learning e Automação**, utilizando **Python**.
+
+- 🛠️ Também utilizo ferramentas como **Git, GitHub, Docker e Postman**.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -47,6 +57,30 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+---
+
+# 📚 Extracurriculares
+
+## 👨‍🏫 Professor Voluntário de Informática Básica
+
+**Estação Tech — Projeto do Governo do Estado do Maranhão**
+
+📅 **01/2026 — Atualmente**
+
+Atuo como **Professor Voluntário de Informática Básica**, contribuindo para a inclusão digital e o desenvolvimento de conhecimentos tecnológicos em comunidades e municípios do Maranhão.
+
+### 🖥️ Conteúdos ensinados:
+
+- Windows e conceitos básicos de informática
+- Pacote Office
+- E-mail e comunicação digital
+- E-mail corporativo
+- Hardware básico
+- Navegação segura na internet
+- Boas práticas de segurança digital
+
+Essa experiência também contribui para o desenvolvimento das minhas habilidades de **comunicação, didática, resolução de problemas e compartilhamento de conhecimento**.
 
 ---
 
