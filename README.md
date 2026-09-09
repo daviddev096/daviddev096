@@ -1,90 +1,71 @@
 # David Alves
 
-🎓 **Estudante de Engenharia de Software**  
-💻 **Engenheiro de Software Java** 
+🎓 **Estudante de Engenharia de Software** | ☕ **Engenheiro de Software Full Stack**
 
 ---
 
 👋 **Olá! Sou David Alves**  
-🚀 **Bem-vindo ao meu GitHub!**
+🚀 **Bem-vindo ao meu perfil no GitHub!**
 
 ---
 
-## 👉 Sobre mim
+## 📌 Sobre mim
 
-- 🎓 Sou estudante de Engenharia de Software.
-
-- 🚀 Estou em transição de carreira para a área de tecnologia.
-
-- ☕ Comecei a estudar **Java por conta própria antes de entrar na faculdade**, construindo uma base sólida em programação.
-
-- 💻 Tenho o **Java como minha principal stack**, com foco em Backend, Spring Boot, APIs RESTful e bancos de dados SQL.
-
-- ⚛️ Também estudo e desenvolvo aplicações utilizando **React**, complementando meus conhecimentos em desenvolvimento Full Stack.
-
-- 🌐 Nas horas vagas, estudo **Desenvolvimento Web** com **HTML5, CSS3, JavaScript e PHP**, desenvolvendo projetos acadêmicos e pessoais.
-
-- 🤖 Sou entusiasta de **Inteligência Artificial, Machine Learning e Automação**, utilizando **Python**.
-
-- 🛠️ Também utilizo ferramentas como **Git, GitHub, Docker e Postman**.
+- 🎓 Graduando em **Engenharia de Software** (Universidade Estácio de Sá).
+- ☕ **Java & Spring Boot** como stack principal no desenvolvimento backend de aplicações escaláveis, APIs RESTful e arquitetura de software.
+- 🅰️ **Angular** na construção de interfaces web modernas e reativas integradas ao ecossistema Java.
+- 🤖 Nas horas vagas, aprofundo meus estudos no ecossistema de **Inteligência Artificial (Python, FastAPI e LLMs)**.
+- 🛠️ Experiência prática com boas práticas (**SOLID, Clean Code**), bancos de dados relacionais (**PostgreSQL, MySQL**), containerização com **Docker**, versionamento com **Git/GitHub** e testes com **Postman**.
+- 👨‍🏫 **Professor Voluntário** de Informática Básica no projeto *Estação Tech (Governo do Estado do Maranhão)*, promovendo inclusão digital e desenvolvendo habilidades de liderança e comunicação.
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-## 🚀 Stack Principal — Backend, Frontend & Bancos de Dados
-
+### 🚀 Backend & Bancos de Dados
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REST API](https://img.shields.io/badge/REST_API-005596?style=for-the-badge&logo=json&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 💻 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🤖 Inteligência Artificial & Estudos Paralelos
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![IA & LLMs](https://img.shields.io/badge/IA_%26_LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
+### ⚙️ DevOps & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🌐 Desenvolvimento Web — Estudos & Projetos
+## 📚 Experiência Extracurricular
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 👨‍🏫 Professor Voluntário de Informática Básica
+**Estação Tech — Governo do Estado do Maranhão**  
+📅 *01/2026 — Atualmente*
 
----
+Atuo promovendo a inclusão digital em comunidades locais através do ensino prático de informática básica, segurança digital e uso produtivo de tecnologias no cotidiano.
 
-# 📚 Extracurriculares
-
-## 👨‍🏫 Professor Voluntário de Informática Básica
-
-**Estação Tech — Projeto do Governo do Estado do Maranhão**
-
-📅 **01/2026 — Atualmente**
-
-Atuo como **Professor Voluntário de Informática Básica**, contribuindo para a inclusão digital e o desenvolvimento de conhecimentos tecnológicos em comunidades e municípios do Maranhão.
-
-### 🖥️ Conteúdos ensinados:
-
-- Windows e conceitos básicos de informática
-- Pacote Office
-- E-mail e comunicação digital
-- E-mail corporativo
-- Hardware básico
-- Navegação segura na internet
-- Boas práticas de segurança digital
-
-Essa experiência também contribui para o desenvolvimento das minhas habilidades de **comunicação, didática, resolução de problemas e compartilhamento de conhecimento**.
+- **Conteúdos ministrados:** Windows, Pacote Office, comunicação digital, e-mail corporativo, hardware básico e navegação segura.
+- **Competências aprimoradas:** Didática, comunicação técnica, liderança, resolução de problemas e compartilhamento de conhecimento.
 
 ---
 
-### 🎓 Formação
+## 🎓 Formação Acadêmica
 
 - **Engenharia de Software** — Universidade Estácio de Sá (EAD)  
   📅 *2026 – 2029 (Previsão)*
 
 ---
 
-### 📫 Contato
+## 📫 Vamos nos conectar?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/davidalvesdev/" target="_blank">
