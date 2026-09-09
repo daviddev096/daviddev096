@@ -11,7 +11,7 @@
 
 ## 📌 Sobre mim
 
-- 🎓 Graduando em **Engenharia de Software** (Universidade Estácio de Sá).
+- 🎓 Graduando em **Engenharia de Software**.
 - ☕ **Java & Spring Boot** como stack principal no desenvolvimento backend de aplicações escaláveis, APIs RESTful e arquitetura de software.
 - 🅰️ **Angular** na construção de interfaces web modernas e reativas integradas ao ecossistema Java.
 - 🤖 Nas horas vagas, aprofundo meus estudos no ecossistema de **Inteligência Artificial (Python, FastAPI e LLMs)**.
