@@ -1,6 +1,6 @@
 # David Alves
 
-🎓 **Estudante de Engenharia de Software** | ☕ **Engenheiro de Software Full Stack**
+🎓 **Estudante de Engenharia de Software** | ☕ **Engenheiro de Software BackEnd Java**
 
 ---
 
