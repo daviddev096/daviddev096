@@ -1,6 +1,6 @@
 # David Alves
 
-🎓 **Estudante de Engenharia de Software** | ☕ **Engenheiro de Software BackEnd Java**
+🎓 **Engenheiro de Software | Backend | Java | Spring Framework | PostgreSQL/MySQL | JUnit & Testes | Docker | CI/CD | RabbitMQ**
 
 ---
 
@@ -34,7 +34,6 @@
 
 ### 🤖 Inteligência Artificial & Estudos Paralelos
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![IA & LLMs](https://img.shields.io/badge/IA_%26_LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 ### ⚙️ DevOps & Ferramentas
